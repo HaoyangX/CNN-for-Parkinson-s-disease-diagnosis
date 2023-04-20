@@ -1,0 +1,2 @@
+This folder is for converting images data into .npy files after generating the image data in preprocessing part
+In the CNN file, the generated .npy file is input for training and eventually a series of training results are obtained
