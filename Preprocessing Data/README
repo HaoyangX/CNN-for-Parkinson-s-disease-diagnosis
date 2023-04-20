@@ -1,0 +1,4 @@
+The main purpose of this folder is to transform the time series data into images and then use them as input for the CNN model training.
+After converting the data into an image, different processes are applied to the image on top of this
+The purpose of the resize file is to generate images with different pixel counts in order to explore the effect of pixel count on the training results
+The purpose of the augmentation file is to increase the amount of data in order to explore whether this operation can improve the training results
