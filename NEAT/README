@@ -1,0 +1,2 @@
+The neat file is the main part of the training and the training results are obtained by inputting the data and running it.
+The config-feedforwardw file is used to configure some of the neat parameters, such as the number of populations generated, the hidden node settings, the input and output node settings, etc.
